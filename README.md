@@ -1,3 +1,3 @@
 ### Deep Learning
 
-Deep Learning in mobile system
+Deep Learning service provided in mobile system
