@@ -1,6 +1,6 @@
-### [Arm-Trustzone]
+### [Arm-TrustZone]
 
-* Arm trustzone 정의
+* Arm TrustZone 정의
 [Arm TrustZone은 하나의 장치에서 **분리된 두 개의 환경**을 제공하며 보안이 필요한 정보를 격리된 환경에서 안전하게 보호하는 기술.]
 
 ![image](https://user-images.githubusercontent.com/78716763/118459760-0337b980-b737-11eb-9624-54f21dd4c618.png)
@@ -56,3 +56,7 @@
   4. 모든 송/수신은 GlobalPlatform API를 사용하는 보안통신을 한다. (REE가 TEE 애플리케이션 별 고유 UUID를 알아야 통신이 가능하다.)
   
 ![image](https://user-images.githubusercontent.com/78716763/118459646-e7341800-b736-11eb-8d78-5e5a5a8615ad.png)
+
+---
+
+ARM TrustZone을 FLUID에 적용시키기
